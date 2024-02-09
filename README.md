@@ -2,9 +2,10 @@
 
 <img height="100px" src="https://github.com/prevanced/prevanced-manager/assets/63334479/3bfedf15-9852-4447-af98-c7e38d6cf93e" />
   
-# PreVanced Manager
+# PreVanced Manager 
 
-A simple android app to download and install latest release from [ReVanced APKs](https://github.com/revanced-apks/build-apps).
+This is a fork of [This Repo](https://github.com/prevanced/prevanced-manager/) with some additional features.<br>
+A simple android app to download and install latest release from [ReVanced APKs](https://github.com/Dare-Devill/Revanced-apps).
 
 </div>
 
@@ -15,7 +16,7 @@ A simple android app to download and install latest release from [ReVanced APKs]
 
 ## Installation
 
-Download the latest release from [here](https://github.com/prevanced/prevanced-manager/releases/latest).
+Download the latest release from [here](https://github.com/Dare-Devill/prevanced-manager/releases/latest).
 
 ## Screenshots
 
@@ -31,7 +32,7 @@ Download the latest release from [here](https://github.com/prevanced/prevanced-m
 
 ## Contributors
 
-[![Contributors](https://contributors-img.web.app/image?repo=prevanced/prevanced-manager)](https://github.com/prevanced/prevanced-manager/graphs/contributors)
+[![Contributors](https://contributors-img.web.app/image?repo=Dare-Devill/prevanced-manager)](https://github.com/Dare-Devill/prevanced-manager/graphs/contributors)
 
 ## Contributing
 
